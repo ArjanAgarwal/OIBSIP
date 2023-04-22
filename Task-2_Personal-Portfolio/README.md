@@ -1,26 +1,4 @@
-# Personal-Portfolio
 
-![](https://img.shields.io/github/issues-pr/Rishit30G/Personal-Portfolio?style=for-the-badge)   ![](https://img.shields.io/github/last-commit/Rishit30G/Personal-Portfolio?style=for-the-badge) 
-
-![](https://img.shields.io/github/forks/Rishit30G/Personal-Portfolio?style=for-the-badge)     ![](https://img.shields.io/github/followers/Rishit30G?style=for-the-badge)  ![](https://img.shields.io/github/stars/Rishit30G/Personal-Portfolio?style=for-the-badge)
-
-### Website Layout
-
-
-https://user-images.githubusercontent.com/74411873/145658790-95f3c433-8a92-4339-b96c-77777e7d5842.mp4
-
-
-
-### How to go about
-This is the basic layout of the website where things need to be replaced with your data and credentials, follow these easy steps given down below to get your website working: 
-
-## HTML ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-
-- Change the Title of the Web Page to your name
-- Go to https://favicon.io to generate favicon for your website
-- Go to https://fontawesome.com/ and get your Kit number and replace it in place of `{{YOUR KIT KEY}}`
-- Go to https://www.emailjs.com/ and sign up yourself, create Email Service and Email Template. 
-- Go to https://dashboard.emailjs.com/admin/integration/browser and get your UserID and replace it with `{{YOUR USER KEY}}`
 
 #### HOME
 
